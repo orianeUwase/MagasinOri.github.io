@@ -1,0 +1,1 @@
+<h6>Bienvenue sur la page de CLIENTS DELETE du magasin scolaire teccart</h6>
